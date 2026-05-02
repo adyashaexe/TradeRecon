@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Data (ignore all csv + stock folder)
+*.csv
+backend/individual_stocks_5yr/
+
+# Mac junk
+**/__MACOSX/
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
